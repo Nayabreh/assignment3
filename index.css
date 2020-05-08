@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul li{
+    list-style: none;
+} 
+a{
+    text-decoration: none;
+}
+.topbar a img{
+    height: 20px;
+    width: 20px;
+}
+.navbar img{
+    width: 200px;
+    height: 50px;
+}
+
+.mymenu ul li a{
+    font-weight: bold;
+    padding: 10px 20px !important;
+    
+}
+
+.mymenu li.active a{
+    background-color: #316dc3;
+    color: #fff !important;
+    border-radius: 50px;
+}
+.bg-theme-colored {
+    background-color: #316dc3;
+
+}
+.mymenu li a:hover{
+    background-color: #316dc3;
+    color: #fff !important;
+    transition: 0.6s ease;
+    border-radius: 50px;
+}
+.what{
+    box-shadow: 5px 5px #ebe5e5;
+}
+/* .span{
+    padding: 20%0px 0px 0px !important;
+} */
+ .introduction span{
+    font-size: 30px;
+    font-weight: bold;
+    
+ }
+ .favicon img{
+     text-align: center;
+     height: 40px;
+     margin-top: 10px;
+ }
+ .fstspan{
+     position: relative;
+     left: 90%;
+     top: 10px;
+     font-weight: bold;
+ }
+ .sndspan{
+     position: relative;
+     right: 90%;
+     top: 10px;
+ }
+ .bluediv img{
+     height: 90px;
+     width: 100px;
+     padding-left: 50px;
+ }
+ .counter{
+    padding-left: 50px;   
+ }
+ .countertext{
+    padding-left: 50px;  
+    font-size: 15px;
+    font-weight: bold;
+
+ }
+ .separator{
+     height: 2px;
+     width: 70px;
+     background-color: green;
+     display: block;
+     text-align: left;
+     margin-top: 1px;
+ }
+ 
+ .sep{
+     
+    height: 1px;
+    width: 200px;
+    background-color: rgb(197, 197, 201);
+    display: block;
+    text-align: right;
+    margin-left: 70px;
+}
+.marquee{
+    height: 200px;
+}
+.cool{
+    background-color: rgb(255, 255, 255);
+}
+.text{
+    font-size: 1px !important;
+}
+.images{
+    margin-right: 2px;
+    height: 100px;
+    width: 200px;
+}
+.footer{
+    background-color: #25272e;
+   padding: 0 !important;
+   margin-bottom: 0px !important;
+}
+.spa{
+    position: relative;
+    height: 10px;
+    width: 7px;
+    color:#b9da7e;
+    
+}
+.spa2{
+    height: 10px;
+    width: 7px;
+    color: #c5d6a8; 
+   
+}
+.ie{
+    color: green;
+
+}
+.textt{
+    font-size: 15px !important;
+    color: #b3b3b4;
+    font-weight: unset !important;
+    margin: 0 !important;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.i img{   
+    height: 30px;
+    width: 30px;
+    border-radius: 60px;
+}
+.i{
+    
+    border-radius: 50px;
+}
